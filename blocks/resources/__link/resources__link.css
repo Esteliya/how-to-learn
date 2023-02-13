@@ -1,0 +1,13 @@
+.resources__link {
+    width: 270px;
+    object-fit: cover;
+    text-align: center;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+  }
+  .resources__link:hover {
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+  }

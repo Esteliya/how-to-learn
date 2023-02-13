@@ -1,0 +1,4 @@
+  .table__cell {
+    display: inline-block;
+    vertical-align: top;
+  }
